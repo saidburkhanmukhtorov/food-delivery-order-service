@@ -1,0 +1,3 @@
+[submodule "submodule-food-delivery"]
+	path = submodule-food-delivery
+	url = git@github.com:saidburkhanmukhtorov/submodule-food-delivery.git
